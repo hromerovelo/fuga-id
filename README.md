@@ -1,5 +1,7 @@
 # **FUGA-ID** & **Folkoteca Galega Dataset**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15864672.svg)](https://doi.org/10.5281/zenodo.15864672)
+
 **FUGA-ID** (Folk mUsic Genome Alignment for IDentification) is a system designed to retrieve symbolic representations of folk melodies by playing an instrument or humming. The system uses sequence alignment techniques inspired by genomics to identify musical pieces from partial or varied interpretations.
 
 This repository contains both the FUGA-ID system and the Folkoteca Galega dataset, a collection of traditional Galician folk music in symbolic format.
@@ -237,16 +239,37 @@ The table below provides a list of terms used in this repository to facilitate u
 
 ## How to Cite This Work
 
-If you use FUGA-ID or the Folkoteca Galega dataset in your research, please cite:
+If you use the Folkoteca Galega dataset or the FUGA-ID software, please cite the following article:
+
+> Romero-Velo, H., Bernardes, G., Ladra, S., Paramá, J. R., & Silva-Coira, F. (2025).  
+> FUGA-ID: A Bioinformatics-Based Approach to Symbolic Folk Melody Identification.  
+> IEEE Transactions on Multimedia. (Under review)
+
+You may also cite the Zenodo archive:
+
+> Romero-Velo, H. (2025). FUGA-ID Code and Folkoteca Galega Dataset. Zenodo.  
+> https://doi.org/10.5281/zenodo.15864672
+
+BibTeX
 
 ```bibtex
 @article{romero2025fuga,
   title={FUGA-ID: A Bioinformatics-Based Approach to Symbolic Folk Melody Identification},
   author={Romero-Velo, Hilda and Bernardes, Gilberto and Ladra, Susana and Paramá, José R. and Silva-Coira, Fernando},
-  journal={},
-  volume={},
-  number={},
-  pages={},
-  year={},
-  publisher={}
+  journal={IEEE Transactions on Multimedia},
+  year={2025},
+  note={Under review}
 }
+```
+
+```bibtex
+@misc{folkoteca2025zenodo,
+  author       = {Romero-Velo, Hilda},
+  title        = {FUGA-ID Code and Folkoteca Galega Dataset},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15864672},
+  url          = {https://doi.org/10.5281/zenodo.15864672},
+  note         = {Code and dataset archive}
+}
+```
