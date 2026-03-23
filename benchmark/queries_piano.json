@@ -1,0 +1,5131 @@
+{
+  "queries": [
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 1427,
+      "end_ms": 7822
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 32550,
+      "end_ms": 39000
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 32404,
+      "end_ms": 39000
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 20295,
+      "end_ms": 37108
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 24827,
+      "end_ms": 39000
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 23128,
+      "end_ms": 28781
+    },
+    {
+      "recording": "pasodobles_quen-tena-vino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_quen-tena-vino_quen-tena-vino-partitura",
+      "instrument": "Piano",
+      "start_ms": 5066,
+      "end_ms": 19458
+    },
+    {
+      "recording": "pasodobles_quen-tena-vino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_quen-tena-vino_quen-tena-vino-partitura",
+      "instrument": "Piano",
+      "start_ms": 105366,
+      "end_ms": 120600
+    },
+    {
+      "recording": "pasodobles_quen-tena-vino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_quen-tena-vino_quen-tena-vino-partitura",
+      "instrument": "Piano",
+      "start_ms": 60013,
+      "end_ms": 72387
+    },
+    {
+      "recording": "pasodobles_quen-tena-vino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_quen-tena-vino_quen-tena-vino-partitura",
+      "instrument": "Piano",
+      "start_ms": 19382,
+      "end_ms": 35156
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 3500,
+      "end_ms": 18897
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 67920,
+      "end_ms": 84000
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 73994,
+      "end_ms": 81593
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 38449,
+      "end_ms": 57143
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 640,
+      "end_ms": 13637
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 52075,
+      "end_ms": 56000
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 47437,
+      "end_ms": 56000
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 5776,
+      "end_ms": 25632
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 21692,
+      "end_ms": 33613
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 38335,
+      "end_ms": 49608
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 15234,
+      "end_ms": 19719
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 27837,
+      "end_ms": 39019
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 46215,
+      "end_ms": 56000
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 666,
+      "end_ms": 8956
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 48526,
+      "end_ms": 64800
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 24527,
+      "end_ms": 44138
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 29816,
+      "end_ms": 34957
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 22077,
+      "end_ms": 29730
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 52328,
+      "end_ms": 57338
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 39699,
+      "end_ms": 48608
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 47339,
+      "end_ms": 59790
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 37100,
+      "end_ms": 41813
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 41770,
+      "end_ms": 52231
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 1765,
+      "end_ms": 12084
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 42470,
+      "end_ms": 52000
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 36704,
+      "end_ms": 46153
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 34731,
+      "end_ms": 52000
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 9189,
+      "end_ms": 16779
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 23136,
+      "end_ms": 29474
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 28596,
+      "end_ms": 43015
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 35359,
+      "end_ms": 40946
+    },
+    {
+      "recording": "jotas_jota-de-ourense-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-ourense_jota-de-ourense-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 1589,
+      "end_ms": 14599
+    },
+    {
+      "recording": "jotas_jota-de-ourense-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-ourense_jota-de-ourense-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 81031,
+      "end_ms": 89077
+    },
+    {
+      "recording": "jotas_jota-de-ourense-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-ourense_jota-de-ourense-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 16339,
+      "end_ms": 19866
+    },
+    {
+      "recording": "jotas_jota-de-ourense-1_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-ourense_jota-de-ourense-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 51306,
+      "end_ms": 67222
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 5080,
+      "end_ms": 13820
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 51469,
+      "end_ms": 57600
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 46008,
+      "end_ms": 57063
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 33657,
+      "end_ms": 42233
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 21181,
+      "end_ms": 31242
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 9559,
+      "end_ms": 28633
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 6579,
+      "end_ms": 20895
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 16106,
+      "end_ms": 19761
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 50155,
+      "end_ms": 57600
+    },
+    {
+      "recording": "polca_carrasqueira_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_polca_carrasqueira_carrasqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 3806,
+      "end_ms": 8603
+    },
+    {
+      "recording": "polca_carrasqueira_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_polca_carrasqueira_carrasqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 97081,
+      "end_ms": 105155
+    },
+    {
+      "recording": "polca_carrasqueira_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_polca_carrasqueira_carrasqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 15336,
+      "end_ms": 19413
+    },
+    {
+      "recording": "polca_carrasqueira_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_polca_carrasqueira_carrasqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 71370,
+      "end_ms": 75859
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 1589,
+      "end_ms": 11560
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 66432,
+      "end_ms": 70200
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 29420,
+      "end_ms": 33049
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 23332,
+      "end_ms": 37201
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 17615,
+      "end_ms": 35625
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 33874,
+      "end_ms": 52191
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 37566,
+      "end_ms": 56387
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 45196,
+      "end_ms": 58565
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 10195,
+      "end_ms": 15172
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 51648,
+      "end_ms": 70200
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 30502,
+      "end_ms": 36024
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 4631,
+      "end_ms": 19733
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 54898,
+      "end_ms": 59400
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 50762,
+      "end_ms": 57409
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 25609,
+      "end_ms": 35765
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 52243,
+      "end_ms": 59400
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 11387,
+      "end_ms": 17075
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 39265,
+      "end_ms": 48806
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 33252,
+      "end_ms": 52039
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 14412,
+      "end_ms": 19614
+    },
+    {
+      "recording": "marchas_marcha-procesional-de-vilalba-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_marchas_marcha-procesional-de-vilalba-1_marcha-procesional-de-vilalba-partitura",
+      "instrument": "Piano",
+      "start_ms": 369,
+      "end_ms": 4747
+    },
+    {
+      "recording": "marchas_marcha-procesional-de-vilalba-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_marchas_marcha-procesional-de-vilalba-1_marcha-procesional-de-vilalba-partitura",
+      "instrument": "Piano",
+      "start_ms": 13028,
+      "end_ms": 21857
+    },
+    {
+      "recording": "marchas_marcha-procesional-de-vilalba-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_marchas_marcha-procesional-de-vilalba-1_marcha-procesional-de-vilalba-partitura",
+      "instrument": "Piano",
+      "start_ms": 5834,
+      "end_ms": 20024
+    },
+    {
+      "recording": "jotas_jota-valseada_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-valseada_jota-valseada-partitura",
+      "instrument": "Piano",
+      "start_ms": 6377,
+      "end_ms": 9571
+    },
+    {
+      "recording": "jotas_jota-valseada_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-valseada_jota-valseada-partitura",
+      "instrument": "Piano",
+      "start_ms": 118635,
+      "end_ms": 126000
+    },
+    {
+      "recording": "jotas_jota-valseada_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-valseada_jota-valseada-partitura",
+      "instrument": "Piano",
+      "start_ms": 70048,
+      "end_ms": 80415
+    },
+    {
+      "recording": "jotas_jota-valseada_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-valseada_jota-valseada-partitura",
+      "instrument": "Piano",
+      "start_ms": 87331,
+      "end_ms": 94651
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 771,
+      "end_ms": 15729
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 31753,
+      "end_ms": 39600
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 12215,
+      "end_ms": 18399
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 20238,
+      "end_ms": 31709
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 27882,
+      "end_ms": 39600
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 12165,
+      "end_ms": 29766
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 6933,
+      "end_ms": 24745
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 64796,
+      "end_ms": 75000
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 7645,
+      "end_ms": 15346
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 60720,
+      "end_ms": 75000
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 45958,
+      "end_ms": 64174
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 61180,
+      "end_ms": 75000
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 61076,
+      "end_ms": 75000
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 63892,
+      "end_ms": 75000
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 18102,
+      "end_ms": 32875
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 43312,
+      "end_ms": 55527
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 13609,
+      "end_ms": 26439
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 27886,
+      "end_ms": 41129
+    },
+    {
+      "recording": "jotas_jota-roubada_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-roubada_jota-roubada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 4233,
+      "end_ms": 20751
+    },
+    {
+      "recording": "jotas_jota-roubada_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-roubada_jota-roubada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 73118,
+      "end_ms": 82714
+    },
+    {
+      "recording": "jotas_jota-roubada_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-roubada_jota-roubada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 37037,
+      "end_ms": 42104
+    },
+    {
+      "recording": "jotas_jota-roubada_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-roubada_jota-roubada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 46554,
+      "end_ms": 57003
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 2669,
+      "end_ms": 9434
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 65311,
+      "end_ms": 76800
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 39428,
+      "end_ms": 53058
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 66498,
+      "end_ms": 76800
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 65231,
+      "end_ms": 72631
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 30930,
+      "end_ms": 44975
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 18942,
+      "end_ms": 22364
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 33153,
+      "end_ms": 41993
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 55155,
+      "end_ms": 61787
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 17490,
+      "end_ms": 27036
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 59182,
+      "end_ms": 62621
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 11737,
+      "end_ms": 19777
+    },
+    {
+      "recording": "foliadas_foliada-de-san-fins-do-castro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-san-fins-do-castro_foliada-de-san-fins-do-castro-partitura",
+      "instrument": "Piano",
+      "start_ms": 10867,
+      "end_ms": 29742
+    },
+    {
+      "recording": "foliadas_foliada-de-san-fins-do-castro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-san-fins-do-castro_foliada-de-san-fins-do-castro-partitura",
+      "instrument": "Piano",
+      "start_ms": 111443,
+      "end_ms": 120000
+    },
+    {
+      "recording": "foliadas_foliada-de-san-fins-do-castro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-san-fins-do-castro_foliada-de-san-fins-do-castro-partitura",
+      "instrument": "Piano",
+      "start_ms": 89478,
+      "end_ms": 100979
+    },
+    {
+      "recording": "foliadas_foliada-de-san-fins-do-castro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-san-fins-do-castro_foliada-de-san-fins-do-castro-partitura",
+      "instrument": "Piano",
+      "start_ms": 21524,
+      "end_ms": 40620
+    },
+    {
+      "recording": "jotas_fogueteira_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_fogueteira_fogueteira-partitura",
+      "instrument": "Piano",
+      "start_ms": 3261,
+      "end_ms": 8922
+    },
+    {
+      "recording": "jotas_fogueteira_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_fogueteira_fogueteira-partitura",
+      "instrument": "Piano",
+      "start_ms": 76634,
+      "end_ms": 90500
+    },
+    {
+      "recording": "jotas_fogueteira_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_fogueteira_fogueteira-partitura",
+      "instrument": "Piano",
+      "start_ms": 9712,
+      "end_ms": 17382
+    },
+    {
+      "recording": "jotas_fogueteira_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_fogueteira_fogueteira-partitura",
+      "instrument": "Piano",
+      "start_ms": 40188,
+      "end_ms": 55492
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 890,
+      "end_ms": 13143
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 33330,
+      "end_ms": 39000
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 26428,
+      "end_ms": 39000
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 17354,
+      "end_ms": 27525
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 35034,
+      "end_ms": 39000
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 31095,
+      "end_ms": 39000
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 577,
+      "end_ms": 4755
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 79232,
+      "end_ms": 88667
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 64492,
+      "end_ms": 73167
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 41879,
+      "end_ms": 56844
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 1887,
+      "end_ms": 9711
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 26003,
+      "end_ms": 38400
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 32399,
+      "end_ms": 38400
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 33948,
+      "end_ms": 38400
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 23207,
+      "end_ms": 32154
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 7373,
+      "end_ms": 26712
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 4525,
+      "end_ms": 16435
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 51125,
+      "end_ms": 64138
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 43185,
+      "end_ms": 46659
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 27474,
+      "end_ms": 38238
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 54621,
+      "end_ms": 64138
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 52804,
+      "end_ms": 59398
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 6955,
+      "end_ms": 12894
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 7340,
+      "end_ms": 14936
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 41649,
+      "end_ms": 45069
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 42046,
+      "end_ms": 55360
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 2708,
+      "end_ms": 9207
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 28221,
+      "end_ms": 34655
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 13529,
+      "end_ms": 18500
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 17401,
+      "end_ms": 29689
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 28231,
+      "end_ms": 34655
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 381,
+      "end_ms": 7116
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 51962,
+      "end_ms": 68667
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 23279,
+      "end_ms": 26994
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 3426,
+      "end_ms": 19106
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 26098,
+      "end_ms": 43333
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 5528,
+      "end_ms": 14604
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 28080,
+      "end_ms": 32276
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 14282,
+      "end_ms": 32164
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 19404,
+      "end_ms": 31123
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 33275,
+      "end_ms": 43333
+    },
+    {
+      "recording": "jotas_jota-de-san-adrian-de-cobres_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-san-adrian-de-cobres_jota-de-san-adrian-de-cobres-partitura",
+      "instrument": "Piano",
+      "start_ms": 5882,
+      "end_ms": 12374
+    },
+    {
+      "recording": "jotas_jota-de-san-adrian-de-cobres_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-san-adrian-de-cobres_jota-de-san-adrian-de-cobres-partitura",
+      "instrument": "Piano",
+      "start_ms": 65459,
+      "end_ms": 85286
+    },
+    {
+      "recording": "jotas_jota-de-san-adrian-de-cobres_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-san-adrian-de-cobres_jota-de-san-adrian-de-cobres-partitura",
+      "instrument": "Piano",
+      "start_ms": 41695,
+      "end_ms": 48220
+    },
+    {
+      "recording": "jotas_jota-de-san-adrian-de-cobres_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-san-adrian-de-cobres_jota-de-san-adrian-de-cobres-partitura",
+      "instrument": "Piano",
+      "start_ms": 9571,
+      "end_ms": 23888
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 1921,
+      "end_ms": 12699
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 40125,
+      "end_ms": 57931
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 42061,
+      "end_ms": 56067
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 18087,
+      "end_ms": 21435
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 46133,
+      "end_ms": 56077
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 24046,
+      "end_ms": 40366
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 35128,
+      "end_ms": 46256
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 11023,
+      "end_ms": 17703
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 43252,
+      "end_ms": 57931
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 768,
+      "end_ms": 18721
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 46959,
+      "end_ms": 57600
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 35911,
+      "end_ms": 39138
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 30803,
+      "end_ms": 38841
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 38907,
+      "end_ms": 57600
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 37398,
+      "end_ms": 56802
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 40479,
+      "end_ms": 57600
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 28436,
+      "end_ms": 40855
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 36910,
+      "end_ms": 54977
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 2004,
+      "end_ms": 14337
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 34343,
+      "end_ms": 39600
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 31813,
+      "end_ms": 39600
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 11418,
+      "end_ms": 20411
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 33532,
+      "end_ms": 39600
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 12893,
+      "end_ms": 17476
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 3351,
+      "end_ms": 11226
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 37948,
+      "end_ms": 57600
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 40146,
+      "end_ms": 57058
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 9426,
+      "end_ms": 26743
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 11262,
+      "end_ms": 29318
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 14995,
+      "end_ms": 30507
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 16980,
+      "end_ms": 28039
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 37834,
+      "end_ms": 54121
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 7391,
+      "end_ms": 16354
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 5970,
+      "end_ms": 13076
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 54498,
+      "end_ms": 64929
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 23154,
+      "end_ms": 39283
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 30733,
+      "end_ms": 39068
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 50814,
+      "end_ms": 55494
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 25535,
+      "end_ms": 35788
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 34247,
+      "end_ms": 45459
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 28319,
+      "end_ms": 37540
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 19540,
+      "end_ms": 26667
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 14851,
+      "end_ms": 20094
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 1255,
+      "end_ms": 12699
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 59426,
+      "end_ms": 63600
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 17484,
+      "end_ms": 32345
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 40575,
+      "end_ms": 45774
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 37404,
+      "end_ms": 41269
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 20724,
+      "end_ms": 39843
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 44348,
+      "end_ms": 50822
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 36859,
+      "end_ms": 45927
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 31913,
+      "end_ms": 35715
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 56346,
+      "end_ms": 63600
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 4482,
+      "end_ms": 14092
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 53860,
+      "end_ms": 73500
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 29404,
+      "end_ms": 34766
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 28046,
+      "end_ms": 33123
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 52984,
+      "end_ms": 58696
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 62430,
+      "end_ms": 66862
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 19758,
+      "end_ms": 24567
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 16993,
+      "end_ms": 28558
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 8079,
+      "end_ms": 21185
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 55282,
+      "end_ms": 72309
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 37521,
+      "end_ms": 49601
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 28861,
+      "end_ms": 42484
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 2824,
+      "end_ms": 6205
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 18609,
+      "end_ms": 32500
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 12944,
+      "end_ms": 17461
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 12027,
+      "end_ms": 17776
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 14637,
+      "end_ms": 29889
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 4423,
+      "end_ms": 11687
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 32808,
+      "end_ms": 45882
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 23943,
+      "end_ms": 34529
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 33671,
+      "end_ms": 39712
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 5408,
+      "end_ms": 10127
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 26837,
+      "end_ms": 30787
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 14206,
+      "end_ms": 23523
+    },
+    {
+      "recording": "foliadas_foliada-2_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-2_foliada-partitura",
+      "instrument": "Piano",
+      "start_ms": 3085,
+      "end_ms": 8907
+    },
+    {
+      "recording": "foliadas_foliada-2_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-2_foliada-partitura",
+      "instrument": "Piano",
+      "start_ms": 106883,
+      "end_ms": 118000
+    },
+    {
+      "recording": "foliadas_foliada-2_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-2_foliada-partitura",
+      "instrument": "Piano",
+      "start_ms": 65539,
+      "end_ms": 81505
+    },
+    {
+      "recording": "foliadas_foliada-2_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-2_foliada-partitura",
+      "instrument": "Piano",
+      "start_ms": 26658,
+      "end_ms": 44720
+    },
+    {
+      "recording": "foliadas_foliada-de-san-tirso_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-san-tirso_foliada-de-san-tirso-partitura",
+      "instrument": "Piano",
+      "start_ms": 355,
+      "end_ms": 7845
+    },
+    {
+      "recording": "foliadas_foliada-de-san-tirso_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-san-tirso_foliada-de-san-tirso-partitura",
+      "instrument": "Piano",
+      "start_ms": 92224,
+      "end_ms": 103286
+    },
+    {
+      "recording": "foliadas_foliada-de-san-tirso_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-san-tirso_foliada-de-san-tirso-partitura",
+      "instrument": "Piano",
+      "start_ms": 54075,
+      "end_ms": 63248
+    },
+    {
+      "recording": "foliadas_foliada-de-san-tirso_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_foliadas_foliada-de-san-tirso_foliada-de-san-tirso-partitura",
+      "instrument": "Piano",
+      "start_ms": 34551,
+      "end_ms": 50210
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 3263,
+      "end_ms": 16091
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 25447,
+      "end_ms": 38400
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 5155,
+      "end_ms": 9659
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 28798,
+      "end_ms": 38400
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 32618,
+      "end_ms": 38400
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 5424,
+      "end_ms": 23630
+    },
+    {
+      "recording": "jotas_jota-de-fontenla_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-fontenla_jota-de-fontenla-partitura",
+      "instrument": "Piano",
+      "start_ms": 6026,
+      "end_ms": 16690
+    },
+    {
+      "recording": "jotas_jota-de-fontenla_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-fontenla_jota-de-fontenla-partitura",
+      "instrument": "Piano",
+      "start_ms": 85585,
+      "end_ms": 92308
+    },
+    {
+      "recording": "jotas_jota-de-fontenla_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-fontenla_jota-de-fontenla-partitura",
+      "instrument": "Piano",
+      "start_ms": 10755,
+      "end_ms": 14057
+    },
+    {
+      "recording": "jotas_jota-de-fontenla_piano_M7_v2_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-fontenla_jota-de-fontenla-partitura",
+      "instrument": "Piano",
+      "start_ms": 35687,
+      "end_ms": 52294
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 2087,
+      "end_ms": 18319
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 50229,
+      "end_ms": 58200
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 6645,
+      "end_ms": 13837
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 26013,
+      "end_ms": 37159
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 37800,
+      "end_ms": 49644
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 49981,
+      "end_ms": 58200
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 50891,
+      "end_ms": 58200
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 23987,
+      "end_ms": 30898
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 52036,
+      "end_ms": 58200
+    },
+    {
+      "recording": "valses_valse-da-marola_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_valse-da-marola_valse-da-marola-partitura",
+      "instrument": "Piano",
+      "start_ms": 5721,
+      "end_ms": 10215
+    },
+    {
+      "recording": "valses_valse-da-marola_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_valse-da-marola_valse-da-marola-partitura",
+      "instrument": "Piano",
+      "start_ms": 103607,
+      "end_ms": 121636
+    },
+    {
+      "recording": "valses_valse-da-marola_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_valse-da-marola_valse-da-marola-partitura",
+      "instrument": "Piano",
+      "start_ms": 70148,
+      "end_ms": 81965
+    },
+    {
+      "recording": "valses_valse-da-marola_piano_M7_v1_wav",
+      "format": "WAV",
+      "score_id": "pezas_valses_valse-da-marola_valse-da-marola-partitura",
+      "instrument": "Piano",
+      "start_ms": 21663,
+      "end_ms": 40203
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 3734,
+      "end_ms": 13902
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 45739,
+      "end_ms": 59400
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 35430,
+      "end_ms": 51246
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 40165,
+      "end_ms": 44828
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 47838,
+      "end_ms": 50952
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 6898,
+      "end_ms": 22285
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 35729,
+      "end_ms": 45613
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 14431,
+      "end_ms": 31921
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 6872,
+      "end_ms": 21743
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 119,
+      "end_ms": 12555
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 101231,
+      "end_ms": 115500
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 32025,
+      "end_ms": 45067
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 17457,
+      "end_ms": 25727
+    },
+    {
+      "recording": "cantares_cantar-de-sega_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_cantares_cantar-de-sega_cantar-de-sega-partitura",
+      "instrument": "Piano",
+      "start_ms": 1802,
+      "end_ms": 10880
+    },
+    {
+      "recording": "cantares_cantar-de-sega_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_cantares_cantar-de-sega_cantar-de-sega-partitura",
+      "instrument": "Piano",
+      "start_ms": 19891,
+      "end_ms": 29072
+    },
+    {
+      "recording": "cantares_cantar-de-sega_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_cantares_cantar-de-sega_cantar-de-sega-partitura",
+      "instrument": "Piano",
+      "start_ms": 15844,
+      "end_ms": 29072
+    },
+    {
+      "recording": "cantares_cantar-de-sega_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_cantares_cantar-de-sega_cantar-de-sega-partitura",
+      "instrument": "Piano",
+      "start_ms": 21842,
+      "end_ms": 29072
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 3947,
+      "end_ms": 13169
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 28744,
+      "end_ms": 44769
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 39910,
+      "end_ms": 44769
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 20342,
+      "end_ms": 34211
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 12863,
+      "end_ms": 27358
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 18832,
+      "end_ms": 35992
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 28770,
+      "end_ms": 38655
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 6290,
+      "end_ms": 9378
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 64532,
+      "end_ms": 75231
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 56321,
+      "end_ms": 72596
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 47948,
+      "end_ms": 62917
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 8995,
+      "end_ms": 16526
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 39989,
+      "end_ms": 43953
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 45569,
+      "end_ms": 56791
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 26452,
+      "end_ms": 39423
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 43762,
+      "end_ms": 55474
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 49913,
+      "end_ms": 66805
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 67547,
+      "end_ms": 75231
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 51358,
+      "end_ms": 61084
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 1848,
+      "end_ms": 21190
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 14971,
+      "end_ms": 33333
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 6073,
+      "end_ms": 16354
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 13312,
+      "end_ms": 16515
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 27459,
+      "end_ms": 33333
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 1221,
+      "end_ms": 9241
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 27108,
+      "end_ms": 41026
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 18548,
+      "end_ms": 30048
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 11656,
+      "end_ms": 28908
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 26837,
+      "end_ms": 38151
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 34960,
+      "end_ms": 41026
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 1181,
+      "end_ms": 12715
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 36114,
+      "end_ms": 48000
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 40838,
+      "end_ms": 48000
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 21699,
+      "end_ms": 27621
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 9370,
+      "end_ms": 15301
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 20124,
+      "end_ms": 24023
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 15338,
+      "end_ms": 23675
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_wav",
+      "format": "WAV",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 27410,
+      "end_ms": 42706
+    },
+    {
+      "recording": "jotas_jota-de-san-adrian-de-cobres_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-san-adrian-de-cobres_jota-de-san-adrian-de-cobres-partitura",
+      "instrument": "Piano",
+      "start_ms": 8844,
+      "end_ms": 16985
+    },
+    {
+      "recording": "jotas_jota-de-san-adrian-de-cobres_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-san-adrian-de-cobres_jota-de-san-adrian-de-cobres-partitura",
+      "instrument": "Piano",
+      "start_ms": 95189,
+      "end_ms": 98895
+    },
+    {
+      "recording": "jotas_jota-de-san-adrian-de-cobres_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-san-adrian-de-cobres_jota-de-san-adrian-de-cobres-partitura",
+      "instrument": "Piano",
+      "start_ms": 32478,
+      "end_ms": 51387
+    },
+    {
+      "recording": "jotas_jota-de-san-adrian-de-cobres_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-san-adrian-de-cobres_jota-de-san-adrian-de-cobres-partitura",
+      "instrument": "Piano",
+      "start_ms": 20142,
+      "end_ms": 37304
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 5911,
+      "end_ms": 25000
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 53926,
+      "end_ms": 65942
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 8000,
+      "end_ms": 26961
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 40416,
+      "end_ms": 47370
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 19970,
+      "end_ms": 39296
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 25667,
+      "end_ms": 43079
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 47357,
+      "end_ms": 52527
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 47909,
+      "end_ms": 63638
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 52848,
+      "end_ms": 63775
+    },
+    {
+      "recording": "fandangos_fandango-de-sorribas_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_fandangos_fandango-de-sorribas_fandango-de-sorribas-partitura",
+      "instrument": "Piano",
+      "start_ms": 21845,
+      "end_ms": 37112
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 2442,
+      "end_ms": 7945
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 58776,
+      "end_ms": 62338
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 21872,
+      "end_ms": 33617
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 12147,
+      "end_ms": 22405
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 17020,
+      "end_ms": 31097
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 29725,
+      "end_ms": 38923
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 42559,
+      "end_ms": 46052
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 25263,
+      "end_ms": 39587
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 41899,
+      "end_ms": 52177
+    },
+    {
+      "recording": "jotas_jota-de-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 25256,
+      "end_ms": 33221
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 2649,
+      "end_ms": 14115
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 24806,
+      "end_ms": 31260
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 6141,
+      "end_ms": 20081
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 13738,
+      "end_ms": 30916
+    },
+    {
+      "recording": "pasodobles_a-saia-da-carolina_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_a-saia-da-carolina_a-saia-da-carolina-partitura",
+      "instrument": "Piano",
+      "start_ms": 23960,
+      "end_ms": 30881
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 1375,
+      "end_ms": 11049
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 16861,
+      "end_ms": 23875
+    },
+    {
+      "recording": "muineiras_ribeirana-de-pontevedra_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_ribeiranas_ribeirana-de-pontevedra_ribeirana-de-pontevedra-partitura",
+      "instrument": "Piano",
+      "start_ms": 15783,
+      "end_ms": 23565
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 344,
+      "end_ms": 12609
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 28495,
+      "end_ms": 31979
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 13550,
+      "end_ms": 25238
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 12179,
+      "end_ms": 17911
+    },
+    {
+      "recording": "muineiras_muineira-de-boimorto_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-boimorto_muineira-de-boimorto-partitura",
+      "instrument": "Piano",
+      "start_ms": 19341,
+      "end_ms": 29501
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 1473,
+      "end_ms": 10673
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 33212,
+      "end_ms": 39755
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 9474,
+      "end_ms": 22851
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 18516,
+      "end_ms": 29380
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 9323,
+      "end_ms": 27359
+    },
+    {
+      "recording": "pasodobles_por-culpa-do-teu_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_por-culpa-do-teu_por-culpa-do-teu-partitura",
+      "instrument": "Piano",
+      "start_ms": 28614,
+      "end_ms": 39755
+    },
+    {
+      "recording": "foliadas_foliada-de-san-tirso_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-san-tirso_foliada-de-san-tirso-partitura",
+      "instrument": "Piano",
+      "start_ms": 5431,
+      "end_ms": 16984
+    },
+    {
+      "recording": "foliadas_foliada-de-san-tirso_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-san-tirso_foliada-de-san-tirso-partitura",
+      "instrument": "Piano",
+      "start_ms": 102971,
+      "end_ms": 120203
+    },
+    {
+      "recording": "foliadas_foliada-de-san-tirso_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-san-tirso_foliada-de-san-tirso-partitura",
+      "instrument": "Piano",
+      "start_ms": 37547,
+      "end_ms": 49520
+    },
+    {
+      "recording": "foliadas_foliada-de-san-tirso_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-san-tirso_foliada-de-san-tirso-partitura",
+      "instrument": "Piano",
+      "start_ms": 51111,
+      "end_ms": 70224
+    },
+    {
+      "recording": "jotas_fogueteira_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_fogueteira_fogueteira-partitura",
+      "instrument": "Piano",
+      "start_ms": 763,
+      "end_ms": 5176
+    },
+    {
+      "recording": "jotas_fogueteira_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_fogueteira_fogueteira-partitura",
+      "instrument": "Piano",
+      "start_ms": 73194,
+      "end_ms": 90083
+    },
+    {
+      "recording": "jotas_fogueteira_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_fogueteira_fogueteira-partitura",
+      "instrument": "Piano",
+      "start_ms": 21488,
+      "end_ms": 36454
+    },
+    {
+      "recording": "jotas_fogueteira_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_fogueteira_fogueteira-partitura",
+      "instrument": "Piano",
+      "start_ms": 57198,
+      "end_ms": 67047
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 4603,
+      "end_ms": 22560
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 39841,
+      "end_ms": 47593
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 26760,
+      "end_ms": 34729
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 40959,
+      "end_ms": 47593
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 11807,
+      "end_ms": 27666
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 28751,
+      "end_ms": 45130
+    },
+    {
+      "recording": "muineiras_muineira-dos-fosados_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-dos-fosados_muineira-dos-fosados-partitura",
+      "instrument": "Piano",
+      "start_ms": 10771,
+      "end_ms": 26031
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 3797,
+      "end_ms": 11836
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 20208,
+      "end_ms": 39916
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 20113,
+      "end_ms": 25989
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 24405,
+      "end_ms": 36260
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 10448,
+      "end_ms": 17847
+    },
+    {
+      "recording": "muineiras_muineira-do-areal_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-areal_muineira-do-areal-partitura",
+      "instrument": "Piano",
+      "start_ms": 9390,
+      "end_ms": 14756
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 2351,
+      "end_ms": 18458
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 35708,
+      "end_ms": 39109
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 21669,
+      "end_ms": 34130
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 28531,
+      "end_ms": 39109
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 8480,
+      "end_ms": 16001
+    },
+    {
+      "recording": "alalas_alala-de-carballo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alalas_alala-de-carballo_alala-de-carballo-partitura",
+      "instrument": "Piano",
+      "start_ms": 26228,
+      "end_ms": 38579
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 1156,
+      "end_ms": 4632
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 18860,
+      "end_ms": 32223
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 7410,
+      "end_ms": 16288
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 18519,
+      "end_ms": 22859
+    },
+    {
+      "recording": "muineiras_muineira-de-berdoias_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-berdoias_muineira-de-berdoias-partitura",
+      "instrument": "Piano",
+      "start_ms": 12002,
+      "end_ms": 28560
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 1104,
+      "end_ms": 5653
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 28920,
+      "end_ms": 47765
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 13303,
+      "end_ms": 28645
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 29077,
+      "end_ms": 42353
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 39161,
+      "end_ms": 47765
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 38012,
+      "end_ms": 44928
+    },
+    {
+      "recording": "mazurcas_mazurca-do-espinarcao_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-espinarcao_jota-de-espinarcao-partitura",
+      "instrument": "Piano",
+      "start_ms": 36087,
+      "end_ms": 40413
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 766,
+      "end_ms": 20171
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 14038,
+      "end_ms": 32302
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 18705,
+      "end_ms": 27574
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 6059,
+      "end_ms": 15355
+    },
+    {
+      "recording": "muineiras_muineira-de-albite_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-albite_muineira-de-albite-partitura",
+      "instrument": "Piano",
+      "start_ms": 9979,
+      "end_ms": 26277
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 1569,
+      "end_ms": 16173
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 43500,
+      "end_ms": 49036
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 19292,
+      "end_ms": 38964
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 37637,
+      "end_ms": 46393
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 35807,
+      "end_ms": 49036
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 43689,
+      "end_ms": 49036
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 36121,
+      "end_ms": 49036
+    },
+    {
+      "recording": "muineiras_muineira-de-piornedo_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-piornedo_muineira-de-piornedo-partitura",
+      "instrument": "Piano",
+      "start_ms": 22766,
+      "end_ms": 27733
+    },
+    {
+      "recording": "marchas_marcha-procesional-de-vilalba-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_marchas_marcha-procesional-de-vilalba-1_marcha-procesional-de-vilalba-partitura",
+      "instrument": "Piano",
+      "start_ms": 2400,
+      "end_ms": 7721
+    },
+    {
+      "recording": "marchas_marcha-procesional-de-vilalba-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_marchas_marcha-procesional-de-vilalba-1_marcha-procesional-de-vilalba-partitura",
+      "instrument": "Piano",
+      "start_ms": 14729,
+      "end_ms": 24765
+    },
+    {
+      "recording": "marchas_marcha-procesional-de-vilalba-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_marchas_marcha-procesional-de-vilalba-1_marcha-procesional-de-vilalba-partitura",
+      "instrument": "Piano",
+      "start_ms": 3893,
+      "end_ms": 9548
+    },
+    {
+      "recording": "marchas_marcha-procesional-de-vilalba-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_marchas_marcha-procesional-de-vilalba-1_marcha-procesional-de-vilalba-partitura",
+      "instrument": "Piano",
+      "start_ms": 3267,
+      "end_ms": 15822
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 2240,
+      "end_ms": 16688
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 14131,
+      "end_ms": 31942
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 4068,
+      "end_ms": 12142
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 23241,
+      "end_ms": 31942
+    },
+    {
+      "recording": "muineiras_muineira-do-molete-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-do-molete-1_muineira-do-molete-partitura",
+      "instrument": "Piano",
+      "start_ms": 7294,
+      "end_ms": 11516
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 367,
+      "end_ms": 5381
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 42221,
+      "end_ms": 47968
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 15191,
+      "end_ms": 25490
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 30745,
+      "end_ms": 45922
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 33104,
+      "end_ms": 47968
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 18042,
+      "end_ms": 29723
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-guisoi_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-guisoi_pasodoble-de-guisoi-partitura",
+      "instrument": "Piano",
+      "start_ms": 35597,
+      "end_ms": 46392
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 6204,
+      "end_ms": 9454
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 71630,
+      "end_ms": 80567
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 15805,
+      "end_ms": 30092
+    },
+    {
+      "recording": "jotas_jota-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 52161,
+      "end_ms": 65485
+    },
+    {
+      "recording": "pasodobles_quen-tena-vino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_quen-tena-vino_quen-tena-vino-partitura",
+      "instrument": "Piano",
+      "start_ms": 4340,
+      "end_ms": 7827
+    },
+    {
+      "recording": "pasodobles_quen-tena-vino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_quen-tena-vino_quen-tena-vino-partitura",
+      "instrument": "Piano",
+      "start_ms": 81447,
+      "end_ms": 99880
+    },
+    {
+      "recording": "pasodobles_quen-tena-vino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_quen-tena-vino_quen-tena-vino-partitura",
+      "instrument": "Piano",
+      "start_ms": 87226,
+      "end_ms": 99880
+    },
+    {
+      "recording": "pasodobles_quen-tena-vino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_quen-tena-vino_quen-tena-vino-partitura",
+      "instrument": "Piano",
+      "start_ms": 59692,
+      "end_ms": 71319
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 2010,
+      "end_ms": 13927
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 34394,
+      "end_ms": 52526
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 16994,
+      "end_ms": 28151
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 42634,
+      "end_ms": 52526
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 13786,
+      "end_ms": 24936
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 13777,
+      "end_ms": 30042
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 17967,
+      "end_ms": 22396
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-1_muineira-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 26012,
+      "end_ms": 44871
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 2093,
+      "end_ms": 11834
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 62320,
+      "end_ms": 76703
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 20853,
+      "end_ms": 35361
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 63495,
+      "end_ms": 70905
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 29730,
+      "end_ms": 37561
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 41285,
+      "end_ms": 52773
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 24873,
+      "end_ms": 42037
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 14293,
+      "end_ms": 17637
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 54002,
+      "end_ms": 58437
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 23024,
+      "end_ms": 35755
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 46419,
+      "end_ms": 56183
+    },
+    {
+      "recording": "muineiras_muineira-da-fonsagrada-3_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-da-fonsagrada-3_muineira-da-fonsagrada",
+      "instrument": "Piano",
+      "start_ms": 57882,
+      "end_ms": 70007
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 3746,
+      "end_ms": 14558
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 32062,
+      "end_ms": 49395
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 33340,
+      "end_ms": 46753
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 31759,
+      "end_ms": 46174
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 31224,
+      "end_ms": 47835
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 36010,
+      "end_ms": 49395
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 41921,
+      "end_ms": 49395
+    },
+    {
+      "recording": "muineiras_muineira-de-cabana_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-cabana_muineira-de-cabana-partitura",
+      "instrument": "Piano",
+      "start_ms": 41227,
+      "end_ms": 49395
+    },
+    {
+      "recording": "jotas_jota-roubada_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-roubada_jota-roubada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 724,
+      "end_ms": 19622
+    },
+    {
+      "recording": "jotas_jota-roubada_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-roubada_jota-roubada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 87808,
+      "end_ms": 95697
+    },
+    {
+      "recording": "jotas_jota-roubada_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-roubada_jota-roubada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 47883,
+      "end_ms": 58882
+    },
+    {
+      "recording": "jotas_jota-roubada_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-roubada_jota-roubada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 53495,
+      "end_ms": 70661
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 7408,
+      "end_ms": 17373
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 59956,
+      "end_ms": 75416
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 42641,
+      "end_ms": 48152
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 21192,
+      "end_ms": 27409
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 10151,
+      "end_ms": 14363
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 47362,
+      "end_ms": 58465
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 25948,
+      "end_ms": 31063
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 22973,
+      "end_ms": 34426
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 32121,
+      "end_ms": 44132
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 29634,
+      "end_ms": 35133
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 49904,
+      "end_ms": 59670
+    },
+    {
+      "recording": "jotas_churrusqueira_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_churrusqueira_churrusqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 36790,
+      "end_ms": 49626
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 2138,
+      "end_ms": 13898
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 60576,
+      "end_ms": 69645
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 34442,
+      "end_ms": 38119
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 15550,
+      "end_ms": 33145
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 42201,
+      "end_ms": 57605
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 13942,
+      "end_ms": 27208
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 50706,
+      "end_ms": 58264
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 48516,
+      "end_ms": 56020
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 46221,
+      "end_ms": 56989
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 61440,
+      "end_ms": 69605
+    },
+    {
+      "recording": "muineiras_muineira-de-freixido_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-freixido_muineira-de-freixido-partitura",
+      "instrument": "Piano",
+      "start_ms": 22760,
+      "end_ms": 28221
+    },
+    {
+      "recording": "valses_valse-da-marola_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_valses_valse-da-marola_valse-da-marola-partitura",
+      "instrument": "Piano",
+      "start_ms": 2432,
+      "end_ms": 11764
+    },
+    {
+      "recording": "valses_valse-da-marola_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_valses_valse-da-marola_valse-da-marola-partitura",
+      "instrument": "Piano",
+      "start_ms": 104779,
+      "end_ms": 111369
+    },
+    {
+      "recording": "valses_valse-da-marola_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_valses_valse-da-marola_valse-da-marola-partitura",
+      "instrument": "Piano",
+      "start_ms": 97846,
+      "end_ms": 111369
+    },
+    {
+      "recording": "valses_valse-da-marola_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_valses_valse-da-marola_valse-da-marola-partitura",
+      "instrument": "Piano",
+      "start_ms": 54402,
+      "end_ms": 65087
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 3721,
+      "end_ms": 18192
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 41282,
+      "end_ms": 55848
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 16156,
+      "end_ms": 20533
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 49592,
+      "end_ms": 55848
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 31741,
+      "end_ms": 39470
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 45271,
+      "end_ms": 55848
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 33112,
+      "end_ms": 42429
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 45759,
+      "end_ms": 55848
+    },
+    {
+      "recording": "alboradas_alborada-de-verin_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_alboradas_alborada-de-verin_alborada-de-verin-partitura",
+      "instrument": "Piano",
+      "start_ms": 20758,
+      "end_ms": 27421
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 2720,
+      "end_ms": 13396
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 24566,
+      "end_ms": 31812
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 16240,
+      "end_ms": 19756
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 26908,
+      "end_ms": 31812
+    },
+    {
+      "recording": "muineiras_muineira-de-outeiro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-outeiro_muineira-de-outeiro-partitura",
+      "instrument": "Piano",
+      "start_ms": 17705,
+      "end_ms": 23383
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 3034,
+      "end_ms": 8400
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 40234,
+      "end_ms": 57958
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 48334,
+      "end_ms": 57410
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 29881,
+      "end_ms": 43512
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 37058,
+      "end_ms": 44816
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 26828,
+      "end_ms": 34852
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 15965,
+      "end_ms": 28355
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 14854,
+      "end_ms": 18789
+    },
+    {
+      "recording": "pasodobles_pasodoble-de-mallou_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-de-mallou_pasodoble-de-mallou-partitura",
+      "instrument": "Piano",
+      "start_ms": 6557,
+      "end_ms": 19719
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 4959,
+      "end_ms": 8540
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 60851,
+      "end_ms": 73432
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 50144,
+      "end_ms": 59582
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 52989,
+      "end_ms": 72936
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 28495,
+      "end_ms": 43294
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 49106,
+      "end_ms": 59387
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 51213,
+      "end_ms": 65277
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 24643,
+      "end_ms": 35766
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 57049,
+      "end_ms": 65254
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 33913,
+      "end_ms": 37706
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 60738,
+      "end_ms": 68816
+    },
+    {
+      "recording": "foliadas_foliada-de-elvina-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-elvina_foliada-de-elvina-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 8957,
+      "end_ms": 26730
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 2135,
+      "end_ms": 7971
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 16843,
+      "end_ms": 31911
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 6982,
+      "end_ms": 17396
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 17594,
+      "end_ms": 22083
+    },
+    {
+      "recording": "muineiras_muineira-de-forcarei-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-forcarei-1_muineira-de-forcarei-partitura",
+      "instrument": "Piano",
+      "start_ms": 20378,
+      "end_ms": 31911
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 355,
+      "end_ms": 3887
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 29014,
+      "end_ms": 32161
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 13524,
+      "end_ms": 28281
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 5681,
+      "end_ms": 14042
+    },
+    {
+      "recording": "muineiras_a-farruquina_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_a-farruquina_a-farruquina-partitura",
+      "instrument": "Piano",
+      "start_ms": 17251,
+      "end_ms": 25237
+    },
+    {
+      "recording": "foliadas_foliada-de-san-fins-do-castro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-san-fins-do-castro_foliada-de-san-fins-do-castro-partitura",
+      "instrument": "Piano",
+      "start_ms": 4175,
+      "end_ms": 16777
+    },
+    {
+      "recording": "foliadas_foliada-de-san-fins-do-castro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-san-fins-do-castro_foliada-de-san-fins-do-castro-partitura",
+      "instrument": "Piano",
+      "start_ms": 108420,
+      "end_ms": 119677
+    },
+    {
+      "recording": "foliadas_foliada-de-san-fins-do-castro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-san-fins-do-castro_foliada-de-san-fins-do-castro-partitura",
+      "instrument": "Piano",
+      "start_ms": 102390,
+      "end_ms": 119677
+    },
+    {
+      "recording": "foliadas_foliada-de-san-fins-do-castro_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-de-san-fins-do-castro_foliada-de-san-fins-do-castro-partitura",
+      "instrument": "Piano",
+      "start_ms": 88458,
+      "end_ms": 94108
+    },
+    {
+      "recording": "jotas_jota-de-fontenla_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-fontenla_jota-de-fontenla-partitura",
+      "instrument": "Piano",
+      "start_ms": 4968,
+      "end_ms": 16733
+    },
+    {
+      "recording": "jotas_jota-de-fontenla_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-fontenla_jota-de-fontenla-partitura",
+      "instrument": "Piano",
+      "start_ms": 89678,
+      "end_ms": 99317
+    },
+    {
+      "recording": "jotas_jota-de-fontenla_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-fontenla_jota-de-fontenla-partitura",
+      "instrument": "Piano",
+      "start_ms": 23718,
+      "end_ms": 32791
+    },
+    {
+      "recording": "jotas_jota-de-fontenla_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-fontenla_jota-de-fontenla-partitura",
+      "instrument": "Piano",
+      "start_ms": 70647,
+      "end_ms": 87148
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 5073,
+      "end_ms": 17407
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 40774,
+      "end_ms": 51000
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 29230,
+      "end_ms": 49039
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 43568,
+      "end_ms": 51000
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 11096,
+      "end_ms": 17508
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 35867,
+      "end_ms": 48587
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 28749,
+      "end_ms": 35217
+    },
+    {
+      "recording": "rumbas_rumba-de-neano_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_rumba-de-neano_rumba-de-neano-partitura",
+      "instrument": "Piano",
+      "start_ms": 27748,
+      "end_ms": 39624
+    },
+    {
+      "recording": "foliadas_foliada-2_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-2_foliada-partitura",
+      "instrument": "Piano",
+      "start_ms": 7331,
+      "end_ms": 19401
+    },
+    {
+      "recording": "foliadas_foliada-2_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-2_foliada-partitura",
+      "instrument": "Piano",
+      "start_ms": 78633,
+      "end_ms": 88223
+    },
+    {
+      "recording": "foliadas_foliada-2_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-2_foliada-partitura",
+      "instrument": "Piano",
+      "start_ms": 76754,
+      "end_ms": 85647
+    },
+    {
+      "recording": "foliadas_foliada-2_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_foliadas_foliada-2_foliada-partitura",
+      "instrument": "Piano",
+      "start_ms": 28752,
+      "end_ms": 45899
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 339,
+      "end_ms": 17859
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 29099,
+      "end_ms": 32234
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 19580,
+      "end_ms": 26446
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 27116,
+      "end_ms": 32234
+    },
+    {
+      "recording": "golpes_golpe-do-carballino_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_golpes_golpe-do-carballino_golpe-do-carballino-partitura",
+      "instrument": "Piano",
+      "start_ms": 13735,
+      "end_ms": 26498
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 1051,
+      "end_ms": 10265
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 22632,
+      "end_ms": 32197
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 20702,
+      "end_ms": 28171
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 24558,
+      "end_ms": 32197
+    },
+    {
+      "recording": "danzas_danza-das-patelas_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_danzas_danza-das-patelas_danza-das-patelas-partitura",
+      "instrument": "Piano",
+      "start_ms": 26397,
+      "end_ms": 31769
+    },
+    {
+      "recording": "cantares_cantar-de-sega_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_cantares_cantar-de-sega_cantar-de-sega-partitura",
+      "instrument": "Piano",
+      "start_ms": 179,
+      "end_ms": 15411
+    },
+    {
+      "recording": "cantares_cantar-de-sega_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_cantares_cantar-de-sega_cantar-de-sega-partitura",
+      "instrument": "Piano",
+      "start_ms": 17294,
+      "end_ms": 23036
+    },
+    {
+      "recording": "cantares_cantar-de-sega_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_cantares_cantar-de-sega_cantar-de-sega-partitura",
+      "instrument": "Piano",
+      "start_ms": 17689,
+      "end_ms": 20900
+    },
+    {
+      "recording": "jotas_jota-valseada_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-valseada_jota-valseada-partitura",
+      "instrument": "Piano",
+      "start_ms": 852,
+      "end_ms": 8656
+    },
+    {
+      "recording": "jotas_jota-valseada_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-valseada_jota-valseada-partitura",
+      "instrument": "Piano",
+      "start_ms": 133285,
+      "end_ms": 146244
+    },
+    {
+      "recording": "jotas_jota-valseada_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-valseada_jota-valseada-partitura",
+      "instrument": "Piano",
+      "start_ms": 88571,
+      "end_ms": 99998
+    },
+    {
+      "recording": "jotas_jota-valseada_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-valseada_jota-valseada-partitura",
+      "instrument": "Piano",
+      "start_ms": 33751,
+      "end_ms": 47568
+    },
+    {
+      "recording": "polca_carrasqueira_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_polca_carrasqueira_carrasqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 591,
+      "end_ms": 15709
+    },
+    {
+      "recording": "polca_carrasqueira_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_polca_carrasqueira_carrasqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 78367,
+      "end_ms": 84927
+    },
+    {
+      "recording": "polca_carrasqueira_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_polca_carrasqueira_carrasqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 65297,
+      "end_ms": 76541
+    },
+    {
+      "recording": "polca_carrasqueira_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_polca_carrasqueira_carrasqueira-partitura",
+      "instrument": "Piano",
+      "start_ms": 15903,
+      "end_ms": 35216
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 3420,
+      "end_ms": 12340
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 33515,
+      "end_ms": 49265
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 25945,
+      "end_ms": 43328
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 35302,
+      "end_ms": 38660
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 31806,
+      "end_ms": 42397
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 32539,
+      "end_ms": 36445
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 9053,
+      "end_ms": 26960
+    },
+    {
+      "recording": "pasodobles_pasodoble-corrido_piano_M7_v2_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasodobles_pasodoble-corrido_pasodoble-corrido-partitura",
+      "instrument": "Piano",
+      "start_ms": 28673,
+      "end_ms": 47164
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 2519,
+      "end_ms": 22491
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 36176,
+      "end_ms": 47828
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 27547,
+      "end_ms": 39002
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 12291,
+      "end_ms": 29770
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 39311,
+      "end_ms": 47828
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 31698,
+      "end_ms": 43261
+    },
+    {
+      "recording": "pasacorredoiras-da-fonsagrada-1_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_pasacorredoiras_pasacorredoiras-da-fonsagrada_pasacorredoiras-da-fonsagrada-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 12990,
+      "end_ms": 29439
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 3399,
+      "end_ms": 10706
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 35036,
+      "end_ms": 47692
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 16655,
+      "end_ms": 26645
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 40717,
+      "end_ms": 47692
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 4845,
+      "end_ms": 13227
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 20886,
+      "end_ms": 32702
+    },
+    {
+      "recording": "rumbas_o-verdegaio_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_rumbas_o-verdegaio_o-verdegaio-partitura",
+      "instrument": "Piano",
+      "start_ms": 9001,
+      "end_ms": 28919
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 3205,
+      "end_ms": 13446
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 21027,
+      "end_ms": 33333
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 6962,
+      "end_ms": 21018
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 3769,
+      "end_ms": 21685
+    },
+    {
+      "recording": "muineiras_buxos-verdes_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_buxos-verdes_buxos-verdes-partitura",
+      "instrument": "Piano",
+      "start_ms": 20643,
+      "end_ms": 33333
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 3810,
+      "end_ms": 10030
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 41869,
+      "end_ms": 47901
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 36532,
+      "end_ms": 41597
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 6715,
+      "end_ms": 17290
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 31735,
+      "end_ms": 44035
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 41040,
+      "end_ms": 47901
+    },
+    {
+      "recording": "muineiras_muineira-de-froxan_piano_M7_mid",
+      "format": "MIDI",
+      "score_id": "pezas_muineiras_muineira-de-froxan_muineira-de-froxan-partitura",
+      "instrument": "Piano",
+      "start_ms": 37339,
+      "end_ms": 47901
+    },
+    {
+      "recording": "jotas_jota-de-ourense-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-ourense_jota-de-ourense-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 6313,
+      "end_ms": 12498
+    },
+    {
+      "recording": "jotas_jota-de-ourense-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-ourense_jota-de-ourense-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 86577,
+      "end_ms": 96036
+    },
+    {
+      "recording": "jotas_jota-de-ourense-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-ourense_jota-de-ourense-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 46544,
+      "end_ms": 62568
+    },
+    {
+      "recording": "jotas_jota-de-ourense-1_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_jotas_jota-de-ourense_jota-de-ourense-partitura-1",
+      "instrument": "Piano",
+      "start_ms": 10062,
+      "end_ms": 18060
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 2095,
+      "end_ms": 19424
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 48262,
+      "end_ms": 61151
+    },
+    {
+      "recording": "valses_apaga-o-candil_piano_M7_v1_mid",
+      "format": "MIDI",
+      "score_id": "pezas_valses_apaga-o-candil_apaga-o-candil-partitura",
+      "instrument": "Piano",
+      "start_ms": 48464,
+      "end_ms": 52191
+    }
+  ],
+  "metadata": {
+    "total_queries": 640,
+    "export_timestamp": 1774205826,
+    "filters": {
+      "instrument": "Piano"
+    }
+  }
+}
