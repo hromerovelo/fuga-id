@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use the FUGA-ID software or the Folkoteca Galega Research Corpus (FGRC), please cite the associated article."
+title: "FUGA-ID: A Cross-Modal Approach to Symbolic Folk Melody Identification"
+type: software
+authors:
+  - family-names: Romero-Velo
+    given-names: Hilda
+    affiliation: Universidade da Coruña
+version: "1.0"
+date-released: 2026-03-23
+license: BSD-2-Clause
+repository-code: "https://github.com/hromerovelo/fuga-id"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19151894
+    description: "Zenodo record containing the FUGA-ID codebase and the FGRC"
+keywords:
+  - music information retrieval
+  - folk music
+  - melody identification
+  - cross-modal retrieval
+  - automatic music transcription
+preferred-citation:
+  type: article
+  title: "FUGA-ID: A Cross-Modal Approach to Symbolic Folk Melody Identification"
+  status: submitted
+  notes: "Under review"
+  year: 2026
+  authors:
+    - family-names: Romero-Velo
+      given-names: Hilda
+      affiliation: Universidade da Coruña
+    - family-names: Bernardes
+      given-names: Gilberto
+      affiliation: "INESC TEC, Universidade do Porto"
+    - family-names: Ladra
+      given-names: Susana
+      affiliation: Universidade da Coruña
+    - family-names: Paramá
+      given-names: José R.
+      affiliation: Universidade da Coruña
+    - family-names: Silva-Coira
+      given-names: Fernando
+      affiliation: Universidade da Coruña
