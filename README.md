@@ -327,13 +327,7 @@ The table below provides a list of terms used in this repository to facilitate u
 
 ## Licence
  
-The source code is released under the BSD 2-Clause licence. All contents of the Folkoteca Galega Research Corpus (FGRC)—including the scores, the musical recordings in both audio and MIDI form, and any data derived from them—are released under CC BY-NC 4.0. For the avoidance of doubt,
-research use is considered non-commercial irrespective of the researcher's
-institutional affiliation and funding source, including research carried out
-within commercial organisations. Commercial use refers to selling the corpus,
-or incorporating it into a product or service offered for sale; for such uses,
-please contact the authors. Attribution must be given by citing the associated
-article. See [LICENSE](LICENSE) for the full terms.
+The source code is released under the BSD 2-Clause licence. All contents of the Folkoteca Galega Research Corpus (FGRC)—including the scores, the musical recordings in both audio and MIDI form, and any data derived from them—are released under the FGRC Research Licence v1.0, which permits use for scientific research only, irrespective of the researcher's institutional affiliation and source of funding. Attribution must be given by citing the associated article. See [LICENSE](LICENSE) for the full terms.
  
 ## How to Cite This Work
 
